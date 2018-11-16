@@ -1,17 +1,27 @@
-.white_font {
+.white-font {
     font-size: 18px;
     color: white;
     padding-left: 35px;
     padding-right: 20px;
 }
 
-.main_header {
-    font-size: 36px;
+.main-header {
     letter-spacing: 1px;
     color: white;
+    text-align: center;
+    padding-top: 20px;
 }
 
-.white_headers {
+.white-headers {
     color: white;
     padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.right-column-text-headers {
+    color: #267187;
+    border-bottom: 1px solid #222222;
+    border-top:  1px solid #222222;
+    margin-top: 20px;
 }

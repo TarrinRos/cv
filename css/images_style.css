@@ -1,5 +1,13 @@
-.avatar {
-    height: 200px;
-    width: 200px;
-    padding-left: 25px;
+.avatar-wrap {
+    height: 250px;
+}
+
+.avatar-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar-border {
+    border: 2px solid white;
 }
