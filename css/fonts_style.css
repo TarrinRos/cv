@@ -1,36 +1,40 @@
 /*font styles*/
 
 .white-font {
-    font-size: 18px;
-    color: white;
-    padding-left: 35px;
-    padding-right: 20px;
+  font-size: 18px;
+  color: white;
+  padding-left: 35px;
+  padding-right: 20px;
 }
 
 .main-header {
-    letter-spacing: 1px;
-    color: white;
-    text-align: center;
-    padding-top: 20px;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
 }
 
 .white-headers {
-    color: white;
-    padding-left: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+  color: white;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .right-column-text-headers {
-    color: #267187;
-    border-bottom: 1px solid #222222;
-    border-top:  1px solid #222222;
-    margin-top: 35px;
+  color: #267187;
+  border-bottom: 1px solid #222222;
+  border-top: 1px solid #222222;
+  margin-top: 35px;
 }
 
 .right-column-main-text {
-    font-size: 1.2em;
-    font-weight: bold;
-    text-align: justify;
-    padding-top: 25px
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: justify;
+  padding-top: 25px
+}
+
+.blue-simple-font {
+  color: #267187;
 }
