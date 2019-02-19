@@ -31,10 +31,13 @@
 .right-column-main-text {
   font-size: 1.2em;
   font-weight: bold;
-  text-align: justify;
   padding-top: 25px
 }
 
 .blue-simple-font {
   color: #267187;
+}
+
+.main-text-normal {
+  font-weight: normal;
 }

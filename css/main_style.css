@@ -7,3 +7,19 @@
 .dark-blue-column {
   background: #267187;
 }
+
+.white-link-header:link, .white-link-header:hover {
+  color: white;
+  text-decoration: none;
+  /*font-weight: bold;*/
+}
+
+.white-link-header:visited {
+  color: #d8ffff;
+  text-decoration: underline;
+  /*font-weight: bold;*/
+}
+
+ul {
+  list-style-type: square;
+}
