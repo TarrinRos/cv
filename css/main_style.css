@@ -10,10 +10,12 @@
 
 .white-link-header:link, .white-link-header:hover {
   color: white;
+  text-decoration: underline;
 }
 
 .white-link-header:visited {
   color: #d8ffff;
+  text-decoration: underline;
 }
 
 ul {
