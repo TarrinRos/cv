@@ -9,3 +9,10 @@
 .avatar-border {
   border: 2px solid white;
 }
+
+@media (max-width: 999px) {
+  .avatar-border{
+    height: 500px;
+    height: 500px;
+  }
+}

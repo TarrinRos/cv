@@ -87,3 +87,11 @@ ul {
 .blue-font {
   color: #267187;
 }
+
+/*================MEDIA==================*/
+
+@media (max-width: 999px) {
+ .r-col-header {
+   padding-left: 20px;
+ }
+}
