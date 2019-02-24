@@ -33,11 +33,7 @@
   background: #267187;
 }
 
-ul {
-  list-style-type: square;
-}
-
-/*============================================*/
+/*================MEDIA==================*/
 
 @media (max-width: 999px) {
   .wrapper {
