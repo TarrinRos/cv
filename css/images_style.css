@@ -12,7 +12,14 @@
 
 @media (max-width: 999px) {
   .avatar-border{
-    height: 500px;
-    height: 500px;
+    height: 450px;
+    height: 450px;
+  }
+}
+
+@media (max-width: 600px) {
+  .avatar-border{
+    height: 250px;
+    height: 250px;
   }
 }
